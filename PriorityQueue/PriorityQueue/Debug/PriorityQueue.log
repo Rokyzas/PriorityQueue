@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(15,18): warning C4022: 'Insert': pointer mismatch for actual parameter 2
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(16,18): warning C4022: 'Insert': pointer mismatch for actual parameter 2
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(17,18): warning C4022: 'Insert': pointer mismatch for actual parameter 2
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(18,18): warning C4022: 'Insert': pointer mismatch for actual parameter 2
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(20,18): warning C4022: 'Insert': pointer mismatch for actual parameter 2
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(21,18): warning C4022: 'Insert': pointer mismatch for actual parameter 2
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(22,18): warning C4022: 'Insert': pointer mismatch for actual parameter 2
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(23,18): warning C4022: 'Insert': pointer mismatch for actual parameter 2
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(46,12): warning C4098: 'PrintListIntData': 'void' function returning a value
+C:\Users\Rokis\source\repos\PriorityQueue\PriorityQueue\main.c(51,12): warning C4098: 'PrintListIntData': 'void' function returning a value
+  PriorityQueue.vcxproj -> C:\Users\Rokis\source\repos\PriorityQueue\Debug\PriorityQueue.exe
